@@ -1,0 +1,11 @@
+hola 
+para 
+revisar
+y
+visualizar
+mi api
+deben
+de poner
+en la
+consola
+python main.py 
